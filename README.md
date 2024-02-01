@@ -1,4 +1,4 @@
-Hra inšpirovaná starou flash hrou Age of War. Cieľom hry je s pomocou vlastnej armády zničiť základňu nepriateľa.
+Hra bola inšpirovaná staršímy flash hramy "Age of War" a "Stick War". Cieľom hry je s pomocou vlastnej armády poraziť nepriateľské jednotky a zničiť základňu nepriateľa.
 Ukážka z hry: 
 ![screenshot](https://github.com/kerysus/AgeOfWar-Java/assets/92203484/56b883b1-2c7c-4a6f-8c70-e4ce5cec8708)
 
