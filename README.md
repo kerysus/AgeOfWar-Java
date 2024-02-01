@@ -2,7 +2,7 @@ Hra bola inšpirovaná staršímy flash hramy "Age of War" a "Stick War". Cieľo
 Ukážka z hry: 
 ![screenshot](https://github.com/kerysus/AgeOfWar-Java/assets/92203484/56b883b1-2c7c-4a6f-8c70-e4ce5cec8708)
 
-**HOW TO PLAY: **
+**HOW TO PLAY:**
 1. Za určitý počet peňazí má hráč možnosť si kúpiť jednu z 3 postáv a určiť na ktorej časti mapy sa má vytvoriť.
    a. Tieto časti sú nazvané ako "lanes", ktoré sú označené číslicamy od 1 do 3.
    b. Peniaze sa konštantne pripočitávajú po malom množstve, alebo sa dajú získať za zabitie nepriateľských jednotiek.
